@@ -1,1 +1,2 @@
-"# receitabath" 
+A presente aplicação pretende atender os requisitos explanados na descrição do teste técnico de sincronização com a receita. A principal intenção é utilizar a estrutura spring batch que através da leitura do documento csv que insere em um banco de dados com o resultado que é obtido através do receitaservice. Devido a questão de limitação de tempo não consegui entregar uma aplicação totalmente funcional, mas espero que novas colaborações venham em nosso caminho e que cada vez possa aprender mais e consequentemente entregar melhor.
+Como diria Vinicius de Moraes “a vida só se dá pra quem se deu”, não é o melhor trabalho do mundo(e nem pretendo fazer isso) mas é o melhor que consigo entregar agora, espero que gostem, atenciosamente Arthur.
